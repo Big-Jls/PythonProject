@@ -12,7 +12,7 @@ headers = {
 }
 json_data = {
     "size": 24,
-    "current": 1,
+    "current": 2,
     "sort": 0,
     "category": 0,
     "resolution": 0,
@@ -30,7 +30,8 @@ if response.status_code == 200:
         img_list = response.json()['data']['list']
         for img_info in img_list:
             img_id = img_info['i']
-            img_url = f'https://api.zzzmh.cn/v2/bz/v3/getUrl/{img_id}'
+            t = img_info['t']
+            img_url = f'https://api.zzzmh.cn/v2/bz/v3/getUrl/{img_id}{t*10}'
 
             # 发送 GET 请求
             response = requests.get(img_url, headers=headers)
@@ -38,7 +39,8 @@ if response.status_code == 200:
             # 检查响应状态码
             if response.status_code == 200:
                 try:
-                    print(response.json())
+                    with open(f'./images/{img_id}' + '.jpg', 'wb') as f:
+                        f.write(response.content)
                 except requests.exceptions.JSONDecodeError:
                     print(f"获取图片 URL 的响应内容不是有效的 JSON 格式: {response.content.decode('utf-8')}")
             elif response.status_code == 403:
@@ -53,3 +55,7 @@ if response.status_code == 200:
         print(f"获取图片列表的响应内容不是有效的 JSON 格式: {response.content.decode('utf-8')}")
 else:
     print(f"请求失败，状态码: {response.status_code}，响应内容: {response.content.decode('utf-8')}")
+
+
+
+
