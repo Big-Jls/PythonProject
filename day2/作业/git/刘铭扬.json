@@ -1,5 +1,52 @@
 [
     {
+        "id": 957151450,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15653052,
+            "login": "null-lmy",
+            "name": "null-lmy",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/null-lmy",
+            "html_url": "https://gitee.com/null-lmy",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340110,
+            "full_name": "null-lmy/python",
+            "human_name": "null-lmy/python",
+            "url": "https://gitee.com/api/v5/repos/null-lmy/python",
+            "namespace": {
+                "id": 14880956,
+                "type": "personal",
+                "name": "null-lmy",
+                "path": "null-lmy",
+                "html_url": "https://gitee.com/null-lmy"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T20:43:29+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "abaf6cbc038034af748c78d0c70738f75f307d8b",
+            "after": "86504b4bcb35da6c3eda51443806509fb2800b92",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "86504b4bcb35da6c3eda51443806509fb2800b92",
+                    "author": {
+                        "email": "lyb@qq.com",
+                        "name": "lyb"
+                    },
+                    "message": "4-1晚作业更新\n",
+                    "url": "https://gitee.com/api/v5/repos/null-lmy/python/commits/86504b4bcb35da6c3eda51443806509fb2800b92"
+                }
+            ]
+        }
+    },
+    {
         "id": 957043359,
         "type": "PushEvent",
         "actor": {
