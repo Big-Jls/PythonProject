@@ -7,7 +7,7 @@ headers = {
 }
 # 使用测试版API密钥，实际应用中应替换为自己申请的有效密钥
 api_key = "0df993c66c0c636e29ecbb5344252a4a"
-url = f'http://api.douban.com/v2/movie/top250?apikey={api_key}'
+url = f'https://api.douban.com/v2/movie/top250?apikey={api_key}'
 response = requests.get(url, headers=headers)
 
 if response.status_code == 200:
