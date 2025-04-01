@@ -35,7 +35,7 @@ for i in range(1, 11):
         d['author'] = author
         d['url'] = url
         print(d)
-        with open(f'./quotes/{count}.json',encoding='utf-8') as f:
+        with open(f'./quotes/quotes_{count}.json','w',encoding='utf-8') as f:
             json.dump(d, f, ensure_ascii=False, indent=4)
         time.sleep(0.5)
 
