@@ -75,8 +75,8 @@ allow_redirects=False禁止重定向，默认是True
     `url = 'https://vip.hdbz.net/auth/ajaxlogin'
     favorite_url = 'https://vip.hdbz.net/site/FavoriteList?page=1&limit=10'
     data = {
-        "username": "15138001200",
-        "userpwd": "pckzzy101"
+        "username": "******",
+        "userpwd": "*******"
     }
     response = requests.post(url, data=data)
     res = requests.get(favorite_url,cookies=response.cookies)
@@ -92,8 +92,8 @@ session可以自动管理cookie，每次使用cookie的时候很不方便，sess
     favorite_url = 'https://vip.hdbz.net/site/FavoriteList?page=1&limit=10'
     session = requests.Session()
     data = {
-        "username": "15138001200",
-        "userpwd": "pckzzy101"
+        "username": "*******",
+        "userpwd": "*********"
     }
     res = session.request(url=url, data=data, method='post')
     print(res.cookies)
