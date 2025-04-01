@@ -1,0 +1,352 @@
+[
+    {
+        "id": 957013283,
+        "type": "PushEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T17:11:52+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "49447847b23f161d338219dc911316539ce4b77a",
+            "after": "df48330952e34e1efd7ec15ce97f09e706431ff4",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "df48330952e34e1efd7ec15ce97f09e706431ff4",
+                    "author": {
+                        "email": "2419078492@qq.com",
+                        "name": "zhou"
+                    },
+                    "message": "feat(壁纸): 添加新功能和示例代码\n\n- 新增重定向示例代码，实现自动重定向和图片保存\n- 添加高清壁纸相关代码，演示如何处理和获取壁纸数据\n- 新增 session 用户会话示例代码，展示如何使用 session 管理用户登录状态\n",
+                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/df48330952e34e1efd7ec15ce97f09e706431ff4"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956924585,
+        "type": "PushEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T15:54:52+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "706057b7cc36f15a64afc0a62102a15296b60599",
+            "after": "49447847b23f161d338219dc911316539ce4b77a",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "49447847b23f161d338219dc911316539ce4b77a",
+                    "author": {
+                        "email": "2419078492@qq.com",
+                        "name": "zhou"
+                    },
+                    "message": "refactor(b.requests): 重命名文件并添加新功能\n\n- 添加 c.重定向.py 文件，实现重定向请求功能\n- 添加 d.高清壁纸.py 文件，实现高清壁纸下载功能\n- 更新 README.md，添加状态码说明\n- 添加 页面爬取.py 文件，实现页面内容爬取功能\n",
+                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/49447847b23f161d338219dc911316539ce4b77a"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956652950,
+        "type": "PushEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T09:55:55+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "bbfe98ad4b5864794f03313834d468edc88396d7",
+            "after": "706057b7cc36f15a64afc0a62102a15296b60599",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "706057b7cc36f15a64afc0a62102a15296b60599",
+                    "author": {
+                        "email": "2419078492@qq.com",
+                        "name": "zhou"
+                    },
+                    "message": "docs(知识点讲解): 添加生成器相关知识\n\n- 新增 4_1生成器.md 文件，讲解生成器的概念、写法和异常处理\n- 新增 4_1生成器.py 文件，演示生成器的使用示例\n",
+                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/706057b7cc36f15a64afc0a62102a15296b60599"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956610931,
+        "type": "PushEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T08:51:56+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "d688034192dc81e978ae10fa001755c81b480296",
+            "after": "bbfe98ad4b5864794f03313834d468edc88396d7",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "bbfe98ad4b5864794f03313834d468edc88396d7",
+                    "author": {
+                        "email": "2419078492@qq.com",
+                        "name": "zhou"
+                    },
+                    "message": "feat(work): 添加爬虫脚本\n\n- 新增极简壁纸和极简壁纸小图爬虫脚本，分别用于下载不同分辨率的壁纸\n- 添加豆瓣电影爬虫脚本，用于爬取电影信息并保存为 JSON 文件\n",
+                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/bbfe98ad4b5864794f03313834d468edc88396d7"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956392964,
+        "type": "PushEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T17:37:47+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "6ff82ce168b35c2e51ac8f5a9ba220921c5709c3",
+            "after": "d688034192dc81e978ae10fa001755c81b480296",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "d688034192dc81e978ae10fa001755c81b480296",
+                    "author": {
+                        "email": "2419078492@qq.com",
+                        "name": "zhou"
+                    },
+                    "message": "- 新增 urllib 库的简介和示例代码\n- 添加 requests 库的示例代码，包括 GET 和 POST 请求\n",
+                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/d688034192dc81e978ae10fa001755c81b480296"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956289083,
+        "type": "PushEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T15:59:04+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "d828f9a99aab0b80d8ffadd7cfd7a86fc9c2c680",
+            "after": "6ff82ce168b35c2e51ac8f5a9ba220921c5709c3",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "6ff82ce168b35c2e51ac8f5a9ba220921c5709c3",
+                    "author": {
+                        "email": "2419078492@qq.com",
+                        "name": "zhou"
+                    },
+                    "message": "feat(urllib): 添加 GET 和 POST 请求的示例脚本\n\n- 新增 urllib_get.py 和 urllib_post.py 两个示例脚本- urllib_get.py 实现了发送 GET 请求并打印响应数据的功能- urllib_post.py 实现了发送 POST 请求并打印响应结果的功能\n",
+                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/6ff82ce168b35c2e51ac8f5a9ba220921c5709c3"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956269884,
+        "type": "CreateEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T15:39:15+08:00",
+        "payload": {
+            "ref_type": "branch",
+            "ref": "master",
+            "default_branch": "master",
+            "description": ""
+        }
+    },
+    {
+        "id": 956236315,
+        "type": "CreateEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T15:04:53+08:00",
+        "payload": {
+            "ref_type": "repository",
+            "ref": null,
+            "default_branch": "master",
+            "description": ""
+        }
+    }
+]

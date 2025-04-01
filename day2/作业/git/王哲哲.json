@@ -1,0 +1,855 @@
+[
+    {
+        "id": 957023661,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T17:21:24+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "a924d814eaf2e761da5d45d3335ae43bec9e79d5",
+            "after": "0a57b5d9539b26971676e88f87938b1ca3a92442",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "0a57b5d9539b26971676e88f87938b1ca3a92442",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/0a57b5d9539b26971676e88f87938b1ca3a92442"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956747062,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T11:40:01+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "24827b0a66d8479d03d51a6df5e4e9331a0e149b",
+            "after": "a924d814eaf2e761da5d45d3335ae43bec9e79d5",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "a924d814eaf2e761da5d45d3335ae43bec9e79d5",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/a924d814eaf2e761da5d45d3335ae43bec9e79d5"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956746273,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T11:39:02+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "ad02c9999af263bec3f9926d9770a648f1b54e71",
+            "after": "24827b0a66d8479d03d51a6df5e4e9331a0e149b",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "24827b0a66d8479d03d51a6df5e4e9331a0e149b",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/24827b0a66d8479d03d51a6df5e4e9331a0e149b"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956648142,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T09:50:07+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "156bad07563f717f0cd7618836bfc86d284aed04",
+            "after": "ad02c9999af263bec3f9926d9770a648f1b54e71",
+            "created": false,
+            "deleted": false,
+            "compare": "https://gitee.com/wang-zhezhea/python-pc/compare/156bad07563f717f0cd7618836bfc86d284aed04...ad02c9999af263bec3f9926d9770a648f1b54e71",
+            "size": 3,
+            "commits": [
+                {
+                    "sha": "6562adf7c578883652a6ac78d4639c500f8d0c79",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/6562adf7c578883652a6ac78d4639c500f8d0c79"
+                },
+                {
+                    "sha": "9f12761270355552d3e51a01d79c79aec483c67b",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/9f12761270355552d3e51a01d79c79aec483c67b"
+                },
+                {
+                    "sha": "ad02c9999af263bec3f9926d9770a648f1b54e71",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/ad02c9999af263bec3f9926d9770a648f1b54e71"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956461980,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T19:17:13+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "017f1f76cd075fcfdc4a5480d161c26ef7825e82",
+            "after": "156bad07563f717f0cd7618836bfc86d284aed04",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "156bad07563f717f0cd7618836bfc86d284aed04",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/156bad07563f717f0cd7618836bfc86d284aed04"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956407791,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T17:52:58+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "15c7ea96494b26b64c4d1f405975550c53e09530",
+            "after": "017f1f76cd075fcfdc4a5480d161c26ef7825e82",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "017f1f76cd075fcfdc4a5480d161c26ef7825e82",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/017f1f76cd075fcfdc4a5480d161c26ef7825e82"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956406985,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T17:52:07+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "0176dee897855040a0f7c113f3a61c8eabd9d9d8",
+            "after": "15c7ea96494b26b64c4d1f405975550c53e09530",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "15c7ea96494b26b64c4d1f405975550c53e09530",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/15c7ea96494b26b64c4d1f405975550c53e09530"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956406029,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T17:51:08+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "87044d1fb611790ea56160997c2ad1d6a3ead26e",
+            "after": "0176dee897855040a0f7c113f3a61c8eabd9d9d8",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "0176dee897855040a0f7c113f3a61c8eabd9d9d8",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/0176dee897855040a0f7c113f3a61c8eabd9d9d8"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956312510,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T16:21:50+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "df3f6c4871f5bee1f6ba18b7d5ef05d9fb9c5a9c",
+            "after": "87044d1fb611790ea56160997c2ad1d6a3ead26e",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "87044d1fb611790ea56160997c2ad1d6a3ead26e",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/87044d1fb611790ea56160997c2ad1d6a3ead26e"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956287084,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T15:57:02+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "bb18770afa67156baeaf8802900f4be62f2828d3",
+            "after": "df3f6c4871f5bee1f6ba18b7d5ef05d9fb9c5a9c",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "df3f6c4871f5bee1f6ba18b7d5ef05d9fb9c5a9c",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/df3f6c4871f5bee1f6ba18b7d5ef05d9fb9c5a9c"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956124738,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:59:54+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "77b651f31cab3886fe40049a3a911a71181c7bb1",
+            "after": "bb18770afa67156baeaf8802900f4be62f2828d3",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "bb18770afa67156baeaf8802900f4be62f2828d3",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/bb18770afa67156baeaf8802900f4be62f2828d3"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956123815,
+        "type": "CreateEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:58:22+08:00",
+        "payload": {
+            "ref_type": "branch",
+            "ref": "master",
+            "default_branch": "master",
+            "description": "爬虫阶段"
+        }
+    },
+    {
+        "id": 956120832,
+        "type": null,
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:53:49+08:00",
+        "payload": null
+    },
+    {
+        "id": 956120363,
+        "type": "CreateEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:53:04+08:00",
+        "payload": {
+            "ref_type": "branch",
+            "ref": "master",
+            "default_branch": "master",
+            "description": "爬虫阶段"
+        }
+    },
+    {
+        "id": 956120227,
+        "type": null,
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:52:52+08:00",
+        "payload": null
+    },
+    {
+        "id": 956120118,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:52:41+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "542eff261d7d04fc32c9a7c29b0616c0f92ed3c1",
+            "after": "19790a338707e8d2a6232dd6691f78eadf727347",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "19790a338707e8d2a6232dd6691f78eadf727347",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/19790a338707e8d2a6232dd6691f78eadf727347"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956117206,
+        "type": "CreateEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:48:43+08:00",
+        "payload": {
+            "ref_type": "branch",
+            "ref": "master",
+            "default_branch": "master",
+            "description": "爬虫阶段"
+        }
+    },
+    {
+        "id": 956116998,
+        "type": null,
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:48:31+08:00",
+        "payload": null
+    },
+    {
+        "id": 956116555,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:47:59+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "f1644b16975a3fbc0ccf1743eb0b6d1f9b38d6fd",
+            "after": "542eff261d7d04fc32c9a7c29b0616c0f92ed3c1",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "542eff261d7d04fc32c9a7c29b0616c0f92ed3c1",
+                    "author": {
+                        "email": "1060048906@qq.com",
+                        "name": "wzz"
+                    },
+                    "message": "初始化\n",
+                    "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc/commits/542eff261d7d04fc32c9a7c29b0616c0f92ed3c1"
+                }
+            ]
+        }
+    },
+    {
+        "id": 956116293,
+        "type": "CreateEvent",
+        "actor": {
+            "id": 15282269,
+            "login": "wang-zhezhea",
+            "name": "Krismile",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/wang-zhezhea",
+            "html_url": "https://gitee.com/wang-zhezhea",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340094,
+            "full_name": "wang-zhezhea/python-pc",
+            "human_name": "Krismile/pythonPC",
+            "url": "https://gitee.com/api/v5/repos/wang-zhezhea/python-pc",
+            "namespace": {
+                "id": 14478991,
+                "type": "personal",
+                "name": "Krismile",
+                "path": "wang-zhezhea",
+                "html_url": "https://gitee.com/wang-zhezhea"
+            }
+        },
+        "public": true,
+        "created_at": "2025-03-31T11:47:40+08:00",
+        "payload": {
+            "ref_type": "branch",
+            "ref": "master",
+            "default_branch": "master",
+            "description": "爬虫阶段"
+        }
+    }
+]
