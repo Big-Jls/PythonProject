@@ -14,22 +14,30 @@
 1. **GET请求：**
 
 
-    `data = parse.urlencode({
+
+```
+    data = parse.urlencode({
         "name":"张三",
         "password":"<PASSWORD>"
     })
     url = f'http://httpbin.org/get?{data}'
-    req = request.Request(url, headers=header, method = 'GET')`
+    req = request.Request(url, headers=header, method = 'GET')
+```
+
 
 2. **POST请求：**
 
 
-    `data = parse.urlencode({
+    
+```
+    data = parse.urlencode({
         "name":"张三",
         "password":"<PASSWORD>"
     }).encode()
     url = 'http://httpbin.org/post'
-    req = request.Request(url, headers=header, method='POST', data=data)`
+    req = request.Request(url, headers=header, method='POST', data=data)
+```
+
 
 
 ## requests
@@ -37,7 +45,9 @@
 1. **GET请求：**
 
 
-    `url = 'http://httpbin.org/get'
+
+```
+    url = 'http://httpbin.org/get'
     res = requests.get(url)
     print(res.json())
     print('-------------------')
@@ -45,7 +55,9 @@
     print(res2.text)
     print('-------------------')
     res2 = requests.get(url)
-    print(res2.content.decode('utf-8'))`
+    print(res2.content.decode('utf-8'))
+```
+
 
 高级请求json()能让得到的json类型的HTTP对象直接转换成json对象输出，
 中级请求text是转换成string字符串，
@@ -55,7 +67,9 @@
 2. **POST请求：**
 
 
-    `url = 'http://httpbin.org/post'
+
+```
+    url = 'http://httpbin.org/post'
     response = requests.post(url,data={
         'name':'zs',
         'psw': 123456
@@ -64,7 +78,9 @@
     
     url = 'http://httpbin.org/post'
     response2 = requests.post(url,json={'name':'zs',"pswd":"<PASSWORD>"})
-    print(response2.json())`
+    print(response2.json())
+```
+
 
 302重定向：
 allow_redirects=False禁止重定向，默认是True
@@ -72,7 +88,9 @@ allow_redirects=False禁止重定向，默认是True
 3. **Cookie：**
 
 
-    `url = 'https://vip.hdbz.net/auth/ajaxlogin'
+
+```
+    url = 'https://vip.hdbz.net/auth/ajaxlogin'
     favorite_url = 'https://vip.hdbz.net/site/FavoriteList?page=1&limit=10'
     data = {
         "username": "******",
@@ -80,7 +98,9 @@ allow_redirects=False禁止重定向，默认是True
     }
     response = requests.post(url, data=data)
     res = requests.get(favorite_url,cookies=response.cookies)
-    print(res.json())`
+    print(res.json())
+```
+
 
 
 4. **Session：**
@@ -88,7 +108,9 @@ session可以自动管理cookie，每次使用cookie的时候很不方便，sess
 使用cookie就不用再次获取了，session帮你自动获取。
 
 
-    `url = 'https://vip.hdbz.net/auth/ajaxlogin'
+    
+```
+url = 'https://vip.hdbz.net/auth/ajaxlogin'
     favorite_url = 'https://vip.hdbz.net/site/FavoriteList?page=1&limit=10'
     session = requests.Session()
     data = {
@@ -98,4 +120,5 @@ session可以自动管理cookie，每次使用cookie的时候很不方便，sess
     res = session.request(url=url, data=data, method='post')
     print(res.cookies)
     res1 = session.request(url = favorite_url, method='get')
-    print(res1.json())`
+    print(res1.json())
+```
