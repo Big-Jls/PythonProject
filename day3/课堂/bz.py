@@ -1,5 +1,5 @@
 import re
-import lxml
+import time
 import requests
 
 url = 'https://www.bizhihui.com/page/'
@@ -15,7 +15,11 @@ for i in range(1,11):
         preview_html = requests.get(preview_url).content.decode('utf-8')
         # print(preview_html)
         HD_url = re.search(r'<a href="([^"]+)" id="changeTxt2" onclick="getyt\(\)">.*?</a>', preview_html, re.S).group(1)
-        print(HD_url)
-        break
+        img_id = HD_url[45:]
+        img_response = requests.get(HD_url)
+        with open(f'./bz/{img_id}','wb') as f:
+            f.write(img_response.content)
+        print(f'{img_id}爬取成功')
+        time.sleep(0.5)
         # hd_url = re.search('<a class="item-img" href="(.*?)')
-    break
+    time.sleep(1)

@@ -173,5 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+
+/day3/课堂/bz/
 /day2/作业/images/
 /day3/课堂/e621/
