@@ -26,9 +26,9 @@ for i in range(1, 11):
         count = count + 1
         text = re.search('<span class="text" itemprop="text">(.*?)</span>', data, re.S).group(1)
         author = re.search('<small class="author" itemprop="author">(.*?)</small>', data, re.S).group(1)
-        tags = re.findall('<a class="tag" href="/tag/([^/]+)/page/1/">(.*?)</a>', data, re.S)
+        tags = re.findall('<a class="tag" href=".*?">(.*?)</a>', data, re.S)
         for tag in tags:
-            d['tags'].append(tag[0])
+            d['tags'].append(tag)
         url = 'https://quotes.toscrape.com/' + re.search('<a\s+href="([^"]+)"', data, re.S).group(1)
         d['text'] = text
         d['author'] = author
