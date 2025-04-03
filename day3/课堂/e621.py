@@ -1,7 +1,7 @@
 import time
 
 import requests
-url = ' '
+url = 'https://e621.net/posts.json'
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0',
 }
@@ -13,7 +13,7 @@ e621_url = url + '?api_key=' + api_key + '&limit=' + str(limit) + '&login=' + lo
 
 response = requests.get(e621_url, headers=headers)
 data_json = response.json()
-print(data_json)
+# print(data_json)
 datas = data_json['posts']
 for data in datas:
     count = count + 1
