@@ -54,7 +54,9 @@ while(True):
             active_part = str(active_part1[0]).strip() + str(active_part2[0]).strip() + str(active_part1[1]).strip()
         elif len(active_part1) == 3 and len(active_part2) == 2:
             active_part = str(active_part1[0]).strip() + str(active_part2[0]).strip() + str(active_part1[1]).strip() + str(active_part2[1]).strip() + str(active_part1[2]).strip()
-        # print(active_part)
+        else:
+            active_part = ""
+            # print(active_part)
         times = table_html[0].xpath(f'//tr[{i}]/td[{j+2}]/p/span/text()')[0]
         is_message = table_html[0].xpath(f'//tr[{i}]/td[{j + 3}]')[0]
         if len(is_message) == 3:
