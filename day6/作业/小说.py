@@ -4,7 +4,9 @@ from lxml import etree
 import time
 import pymongo
 import os
+from fake_useragent import UserAgent
 
+ua = UserAgent()
 for i in range(1,101):
     url = 'https://www.zongheng.com/api2/catefine/storeSearch'
     data = {
@@ -22,7 +24,7 @@ for i in range(1,101):
         'naodongFilter': 0,
     }
 
-    book_response = requests.post(url, data=data)
+    book_response = requests.post(url, data=data, headers={'User-Agent':ua.random})
     # 主页返回book简易信息的json
     book_list = book_response.json()['result']['bookList']
     count = 0
