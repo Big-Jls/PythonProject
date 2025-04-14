@@ -221,3 +221,56 @@ xpath 语法
 
 查找任意目录下id是item3 li的titles属性值：
 //li[@id="item3"]/@title
+
+## BeautifulSoup4
+```
+    html = """
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>aTitle发发发1</title>
+    </head>
+    <body>
+        <ul>
+            <li id="item1" class="item">醒醒啦1</li>
+            <li id="item2" class="item">醒醒啦2</li>
+            <li id="item3" class="item">醒醒啦3</li>
+            <li id="item4" class="item">醒醒啦4</li>
+            <li id="item5" class="item">醒醒啦5</li>
+        </ul>
+        <p>
+            hello
+            i
+            am
+            iron
+            man
+        </p>
+        <div id="target"><p id="p0"> 醒醒啦 </p></div>
+        
+    </body>
+    </html>
+    """
+```
+
+1. **find：**
+```
+    soup = BeautifulSoup(html, features='lxml')
+    title = soup.find("title")
+    print(title.text)
+    target = soup.find("div", attrs={"id": "target"})
+    inner_p = target.find("p")
+    print(inner_p.text.strip(), inner_p.has_attr("id"), inner_p.get("name", "p"))
+```
+2. **find_all：**
+```
+    items = soup.find_all("li", attrs={"class": "item"})
+    for item in items:
+        print(item.text, item.attrs["id"])
+```
+
+## Scrapy 爬虫框架
+
+scrapy startproject 项目名字
+cd name
+scrapy genspider 爬虫名字 域名
