@@ -1,6 +1,6 @@
 [
     {
-        "id": 957159319,
+        "id": 964587211,
         "type": "PushEvent",
         "actor": {
             "id": 10073945,
@@ -25,29 +25,29 @@
             }
         },
         "public": true,
-        "created_at": "2025-04-01T21:01:42+08:00",
+        "created_at": "2025-04-16T21:34:53+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "63087a74fd552ce4357ad6fc1d1eab6896384dac",
-            "after": "6792821a5625896dd644a927298fc076dd629b89",
+            "before": "ce5b9135fdf0f467b5d49ffbb95db0174f3dc446",
+            "after": "a63b010fc4d904a8daafd1485ee5a996067cd399",
             "created": false,
             "deleted": false,
             "size": 1,
             "commits": [
                 {
-                    "sha": "6792821a5625896dd644a927298fc076dd629b89",
+                    "sha": "a63b010fc4d904a8daafd1485ee5a996067cd399",
                     "author": {
                         "email": "149673321+25230417449@users.noreply.github.com",
                         "name": "25230417449"
                     },
-                    "message": "4.1作业\n",
-                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/6792821a5625896dd644a927298fc076dd629b89"
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/a63b010fc4d904a8daafd1485ee5a996067cd399"
                 }
             ]
         }
     },
     {
-        "id": 957013523,
+        "id": 964581740,
         "type": "PushEvent",
         "actor": {
             "id": 10073945,
@@ -72,39 +72,86 @@
             }
         },
         "public": true,
-        "created_at": "2025-04-01T17:12:07+08:00",
+        "created_at": "2025-04-16T21:21:31+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "7f055a0682420b13bd12f34d6cec4c2ddbdc2185",
-            "after": "63087a74fd552ce4357ad6fc1d1eab6896384dac",
+            "before": "ff52f6bbd22377005daa1d837b12a79997ca0935",
+            "after": "ce5b9135fdf0f467b5d49ffbb95db0174f3dc446",
             "created": false,
             "deleted": false,
-            "compare": "https://gitee.com/gurenabc/my_01/compare/7f055a0682420b13bd12f34d6cec4c2ddbdc2185...63087a74fd552ce4357ad6fc1d1eab6896384dac",
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "ce5b9135fdf0f467b5d49ffbb95db0174f3dc446",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/ce5b9135fdf0f467b5d49ffbb95db0174f3dc446"
+                }
+            ]
+        }
+    },
+    {
+        "id": 963268024,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-14T21:50:08+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "e05f08f33976b9581416b198ba0efd386c85efc4",
+            "after": "ff52f6bbd22377005daa1d837b12a79997ca0935",
+            "created": false,
+            "deleted": false,
+            "compare": "https://gitee.com/gurenabc/my_01/compare/e05f08f33976b9581416b198ba0efd386c85efc4...ff52f6bbd22377005daa1d837b12a79997ca0935",
             "size": 2,
             "commits": [
                 {
-                    "sha": "5a6f0e9e206add59e0289e33b70beed1aebe82f7",
+                    "sha": "6a43b8dd6c74af501b51021971df0ec39f9ec8c7",
                     "author": {
                         "email": "149673321+25230417449@users.noreply.github.com",
                         "name": "25230417449"
                     },
-                    "message": "作业\n",
-                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/5a6f0e9e206add59e0289e33b70beed1aebe82f7"
+                    "message": "第一个作业quotes\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/6a43b8dd6c74af501b51021971df0ec39f9ec8c7"
                 },
                 {
-                    "sha": "63087a74fd552ce4357ad6fc1d1eab6896384dac",
+                    "sha": "ff52f6bbd22377005daa1d837b12a79997ca0935",
                     "author": {
                         "email": "149673321+25230417449@users.noreply.github.com",
                         "name": "25230417449"
                     },
-                    "message": "作业,课堂练习\n",
-                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/63087a74fd552ce4357ad6fc1d1eab6896384dac"
+                    "message": "第一个作业起点\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/ff52f6bbd22377005daa1d837b12a79997ca0935"
                 }
             ]
         }
     },
     {
-        "id": 956615809,
+        "id": 963211450,
         "type": "PushEvent",
         "actor": {
             "id": 10073945,
@@ -129,29 +176,29 @@
             }
         },
         "public": true,
-        "created_at": "2025-04-01T09:04:22+08:00",
+        "created_at": "2025-04-14T19:40:09+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "7a2b50fd24dad004703c975be734917de7191e20",
-            "after": "7f055a0682420b13bd12f34d6cec4c2ddbdc2185",
+            "before": "c5aab1728004ae265b7aed4ac29293fc893c5516",
+            "after": "e05f08f33976b9581416b198ba0efd386c85efc4",
             "created": false,
             "deleted": false,
             "size": 1,
             "commits": [
                 {
-                    "sha": "7f055a0682420b13bd12f34d6cec4c2ddbdc2185",
+                    "sha": "e05f08f33976b9581416b198ba0efd386c85efc4",
                     "author": {
                         "email": "149673321+25230417449@users.noreply.github.com",
                         "name": "25230417449"
                     },
-                    "message": "作业\n",
-                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/7f055a0682420b13bd12f34d6cec4c2ddbdc2185"
+                    "message": "第一个作业quotes\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/e05f08f33976b9581416b198ba0efd386c85efc4"
                 }
             ]
         }
     },
     {
-        "id": 956614844,
+        "id": 963210613,
         "type": "PushEvent",
         "actor": {
             "id": 10073945,
@@ -176,29 +223,29 @@
             }
         },
         "public": true,
-        "created_at": "2025-04-01T09:02:21+08:00",
+        "created_at": "2025-04-14T19:38:11+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "09800ae59aa037e8b384f627cf005991d4fe5d15",
-            "after": "7a2b50fd24dad004703c975be734917de7191e20",
+            "before": "796ad300dadcc13bdf4552fe1275a0393775bf51",
+            "after": "c5aab1728004ae265b7aed4ac29293fc893c5516",
             "created": false,
             "deleted": false,
             "size": 1,
             "commits": [
                 {
-                    "sha": "7a2b50fd24dad004703c975be734917de7191e20",
+                    "sha": "c5aab1728004ae265b7aed4ac29293fc893c5516",
                     "author": {
                         "email": "149673321+25230417449@users.noreply.github.com",
                         "name": "25230417449"
                     },
-                    "message": "作业\n",
-                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/7a2b50fd24dad004703c975be734917de7191e20"
+                    "message": "练习\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/c5aab1728004ae265b7aed4ac29293fc893c5516"
                 }
             ]
         }
     },
     {
-        "id": 956614047,
+        "id": 961438853,
         "type": "PushEvent",
         "actor": {
             "id": 10073945,
@@ -223,30 +270,30 @@
             }
         },
         "public": true,
-        "created_at": "2025-04-01T09:00:29+08:00",
+        "created_at": "2025-04-10T21:13:45+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "b87dfd435ddfc0e932d209ed37822972304c3935",
-            "after": "09800ae59aa037e8b384f627cf005991d4fe5d15",
+            "before": "9d23981ccc2902d5951aaaa65e34d12127f624e7",
+            "after": "796ad300dadcc13bdf4552fe1275a0393775bf51",
             "created": false,
             "deleted": false,
             "size": 1,
             "commits": [
                 {
-                    "sha": "09800ae59aa037e8b384f627cf005991d4fe5d15",
+                    "sha": "796ad300dadcc13bdf4552fe1275a0393775bf51",
                     "author": {
                         "email": "149673321+25230417449@users.noreply.github.com",
                         "name": "25230417449"
                     },
-                    "message": "作业\n",
-                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/09800ae59aa037e8b384f627cf005991d4fe5d15"
+                    "message": "作业 债券\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/796ad300dadcc13bdf4552fe1275a0393775bf51"
                 }
             ]
         }
     },
     {
-        "id": 956154977,
-        "type": "CreateEvent",
+        "id": 960773678,
+        "type": "PushEvent",
         "actor": {
             "id": 10073945,
             "login": "gurenabc",
@@ -269,18 +316,41 @@
                 "html_url": "https://gitee.com/gurenabc"
             }
         },
-        "public": false,
-        "created_at": "2025-03-31T13:18:56+08:00",
+        "public": true,
+        "created_at": "2025-04-09T20:22:32+08:00",
         "payload": {
-            "ref_type": "branch",
-            "ref": "master",
-            "default_branch": "master",
-            "description": "爬虫"
+            "ref": "refs/heads/master",
+            "before": "f09b0d835c7d59ab77ff862f20a910586f3a42c5",
+            "after": "9d23981ccc2902d5951aaaa65e34d12127f624e7",
+            "created": false,
+            "deleted": false,
+            "compare": "https://gitee.com/gurenabc/my_01/compare/f09b0d835c7d59ab77ff862f20a910586f3a42c5...9d23981ccc2902d5951aaaa65e34d12127f624e7",
+            "size": 2,
+            "commits": [
+                {
+                    "sha": "395c682ede6fc8bdd393603ed052f6d7731caf71",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "电影网站，协程\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/395c682ede6fc8bdd393603ed052f6d7731caf71"
+                },
+                {
+                    "sha": "9d23981ccc2902d5951aaaa65e34d12127f624e7",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": " 。\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/9d23981ccc2902d5951aaaa65e34d12127f624e7"
+                }
+            ]
         }
     },
     {
-        "id": 956121404,
-        "type": "CreateEvent",
+        "id": 960423869,
+        "type": "PushEvent",
         "actor": {
             "id": 10073945,
             "login": "gurenabc",
@@ -303,13 +373,609 @@
                 "html_url": "https://gitee.com/gurenabc"
             }
         },
-        "public": false,
-        "created_at": "2025-03-31T11:54:40+08:00",
+        "public": true,
+        "created_at": "2025-04-09T12:50:00+08:00",
         "payload": {
-            "ref_type": "repository",
-            "ref": null,
-            "default_branch": "master",
-            "description": "爬虫"
+            "ref": "refs/heads/master",
+            "before": "d3306d1b995b77bb221470205a1dbe4a27b9c8af",
+            "after": "f09b0d835c7d59ab77ff862f20a910586f3a42c5",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "f09b0d835c7d59ab77ff862f20a910586f3a42c5",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "5.网站 歌曲海   有反爬\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/f09b0d835c7d59ab77ff862f20a910586f3a42c5"
+                }
+            ]
+        }
+    },
+    {
+        "id": 960316204,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-09T10:15:16+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "472fd0601069fb799e077f1e423f3a8dc2cd99be",
+            "after": "d3306d1b995b77bb221470205a1dbe4a27b9c8af",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "d3306d1b995b77bb221470205a1dbe4a27b9c8af",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "5.作业,修改\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/d3306d1b995b77bb221470205a1dbe4a27b9c8af"
+                }
+            ]
+        }
+    },
+    {
+        "id": 960300270,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-09T09:56:56+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "bd7c696942f986af86c8de4e98e67cc91f469346",
+            "after": "472fd0601069fb799e077f1e423f3a8dc2cd99be",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "472fd0601069fb799e077f1e423f3a8dc2cd99be",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "5.作业\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/472fd0601069fb799e077f1e423f3a8dc2cd99be"
+                }
+            ]
+        }
+    },
+    {
+        "id": 960300077,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-09T09:56:42+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "149f7c9b7e4922476d4dd4b6da74dbee63a89448",
+            "after": "bd7c696942f986af86c8de4e98e67cc91f469346",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "bd7c696942f986af86c8de4e98e67cc91f469346",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "5.作业\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/bd7c696942f986af86c8de4e98e67cc91f469346"
+                }
+            ]
+        }
+    },
+    {
+        "id": 959806360,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-08T13:43:08+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "6764d114c31394ea4c1a22ed10a448a2e4f36a4d",
+            "after": "149f7c9b7e4922476d4dd4b6da74dbee63a89448",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "149f7c9b7e4922476d4dd4b6da74dbee63a89448",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "小说网站\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/149f7c9b7e4922476d4dd4b6da74dbee63a89448"
+                }
+            ]
+        }
+    },
+    {
+        "id": 959542413,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-07T21:57:14+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "f3cc85e80b26377d215b4045b841b68dd591a4f1",
+            "after": "6764d114c31394ea4c1a22ed10a448a2e4f36a4d",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "6764d114c31394ea4c1a22ed10a448a2e4f36a4d",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4.作业，包含cctv,代理访问不了，豆瓣\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/6764d114c31394ea4c1a22ed10a448a2e4f36a4d"
+                }
+            ]
+        }
+    },
+    {
+        "id": 959176781,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-07T13:23:05+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "bdfa6888b45121c75dd56e56d8789cfb698f2d10",
+            "after": "f3cc85e80b26377d215b4045b841b68dd591a4f1",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "f3cc85e80b26377d215b4045b841b68dd591a4f1",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4.爬取梨视频，排行榜视频，成功\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/f3cc85e80b26377d215b4045b841b68dd591a4f1"
+                }
+            ]
+        }
+    },
+    {
+        "id": 959034912,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-07T09:57:21+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "59de1d681a636c8439c64e99a595a28a69846c2c",
+            "after": "bdfa6888b45121c75dd56e56d8789cfb698f2d10",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "bdfa6888b45121c75dd56e56d8789cfb698f2d10",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4.cssselect练习\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/bdfa6888b45121c75dd56e56d8789cfb698f2d10"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958131556,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T15:09:37+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "641badc1ec528e17e323eb13783a6529d298cbd4",
+            "after": "59de1d681a636c8439c64e99a595a28a69846c2c",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "59de1d681a636c8439c64e99a595a28a69846c2c",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/59de1d681a636c8439c64e99a595a28a69846c2c"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958021605,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T11:52:54+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "e03ca552d44b8fe3016baf04f493c59b66eb33f2",
+            "after": "641badc1ec528e17e323eb13783a6529d298cbd4",
+            "created": false,
+            "deleted": false,
+            "compare": "https://gitee.com/gurenabc/my_01/compare/e03ca552d44b8fe3016baf04f493c59b66eb33f2...641badc1ec528e17e323eb13783a6529d298cbd4",
+            "size": 3,
+            "commits": [
+                {
+                    "sha": "57d2a977dc8de8a2690a500aa353e94a0aab8776",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4.2作业\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/57d2a977dc8de8a2690a500aa353e94a0aab8776"
+                },
+                {
+                    "sha": "1591bd2565620fd1233bd02d88f6bca855e3034d",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4.2作业\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/1591bd2565620fd1233bd02d88f6bca855e3034d"
+                },
+                {
+                    "sha": "641badc1ec528e17e323eb13783a6529d298cbd4",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4.2作业\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/641badc1ec528e17e323eb13783a6529d298cbd4"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957511396,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-02T15:00:47+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "403c495824608617526c3a0cf9932110a1ec6d6f",
+            "after": "e03ca552d44b8fe3016baf04f493c59b66eb33f2",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "e03ca552d44b8fe3016baf04f493c59b66eb33f2",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "修改\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/e03ca552d44b8fe3016baf04f493c59b66eb33f2"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957506173,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-02T14:55:24+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "6a688805d012174c5c21a99d98783ba9716a5909",
+            "after": "403c495824608617526c3a0cf9932110a1ec6d6f",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "403c495824608617526c3a0cf9932110a1ec6d6f",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "网站练习，成功获取高清图\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/403c495824608617526c3a0cf9932110a1ec6d6f"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957176438,
+        "type": "PushEvent",
+        "actor": {
+            "id": 10073945,
+            "login": "gurenabc",
+            "name": "王军",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/gurenabc",
+            "html_url": "https://gitee.com/gurenabc",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40340801,
+            "full_name": "gurenabc/my_01",
+            "human_name": "王军/my_01",
+            "url": "https://gitee.com/api/v5/repos/gurenabc/my_01",
+            "namespace": {
+                "id": 8826977,
+                "type": "personal",
+                "name": "王军",
+                "path": "gurenabc",
+                "html_url": "https://gitee.com/gurenabc"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-01T21:43:45+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "6792821a5625896dd644a927298fc076dd629b89",
+            "after": "6a688805d012174c5c21a99d98783ba9716a5909",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "6a688805d012174c5c21a99d98783ba9716a5909",
+                    "author": {
+                        "email": "149673321+25230417449@users.noreply.github.com",
+                        "name": "25230417449"
+                    },
+                    "message": "4.1作业 迭代器\n",
+                    "url": "https://gitee.com/api/v5/repos/gurenabc/my_01/commits/6a688805d012174c5c21a99d98783ba9716a5909"
+                }
+            ]
         }
     }
 ]

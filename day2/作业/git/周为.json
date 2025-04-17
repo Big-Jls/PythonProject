@@ -1,6 +1,6 @@
 [
     {
-        "id": 956613983,
+        "id": 964591477,
         "type": "PushEvent",
         "actor": {
             "id": 15627376,
@@ -24,30 +24,218 @@
                 "html_url": "https://gitee.com/weeks-work"
             }
         },
-        "public": false,
-        "created_at": "2025-04-01T09:00:21+08:00",
+        "public": true,
+        "created_at": "2025-04-16T21:46:28+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "468a7da655b76473773f9128bd61d13f3b6ec2e2",
-            "after": "f5de788c8f48375a3685f2e69c564dbdd8489fda",
+            "before": "6d4b59b890c31bcc30827cea5c26b6dc16d722bc",
+            "after": "c923b6eb4484f47a24f2b6a1b7227b5dc90e4db9",
             "created": false,
             "deleted": false,
             "size": 1,
             "commits": [
                 {
-                    "sha": "f5de788c8f48375a3685f2e69c564dbdd8489fda",
+                    "sha": "c923b6eb4484f47a24f2b6a1b7227b5dc90e4db9",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "4.16\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/c923b6eb4484f47a24f2b6a1b7227b5dc90e4db9"
+                }
+            ]
+        }
+    },
+    {
+        "id": 963928538,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-15T21:44:20+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "a8f0b8cfbeddd29724f45aefdaeab2855b50c112",
+            "after": "6d4b59b890c31bcc30827cea5c26b6dc16d722bc",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "6d4b59b890c31bcc30827cea5c26b6dc16d722bc",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "4.14\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/6d4b59b890c31bcc30827cea5c26b6dc16d722bc"
+                }
+            ]
+        }
+    },
+    {
+        "id": 963267317,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-14T21:48:24+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "96fa774e77a3c25d0c4e31379018c877950eba64",
+            "after": "a8f0b8cfbeddd29724f45aefdaeab2855b50c112",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "a8f0b8cfbeddd29724f45aefdaeab2855b50c112",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "4.14\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/a8f0b8cfbeddd29724f45aefdaeab2855b50c112"
+                }
+            ]
+        }
+    },
+    {
+        "id": 961455852,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-10T21:55:17+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "9ab2cc1bb54c6ab20932cc7b813c556f8792f6b9",
+            "after": "96fa774e77a3c25d0c4e31379018c877950eba64",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "96fa774e77a3c25d0c4e31379018c877950eba64",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "4.10\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/96fa774e77a3c25d0c4e31379018c877950eba64"
+                }
+            ]
+        }
+    },
+    {
+        "id": 960810034,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-09T22:01:09+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "aa6863e8f4d3b238d0ffed7ba37847256b5c0c72",
+            "after": "9ab2cc1bb54c6ab20932cc7b813c556f8792f6b9",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "9ab2cc1bb54c6ab20932cc7b813c556f8792f6b9",
                     "author": {
                         "email": "15627376+weeks-work@user.noreply.gitee.com",
                         "name": "周为"
                     },
                     "message": "作业\n",
-                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/f5de788c8f48375a3685f2e69c564dbdd8489fda"
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/9ab2cc1bb54c6ab20932cc7b813c556f8792f6b9"
                 }
             ]
         }
     },
     {
-        "id": 956131066,
+        "id": 960180576,
         "type": "PushEvent",
         "actor": {
             "id": 15627376,
@@ -71,30 +259,30 @@
                 "html_url": "https://gitee.com/weeks-work"
             }
         },
-        "public": false,
-        "created_at": "2025-03-31T12:17:40+08:00",
+        "public": true,
+        "created_at": "2025-04-08T22:00:56+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "a3cc037c0ad41eebad3f44d116eaeaf6397a27a7",
-            "after": "468a7da655b76473773f9128bd61d13f3b6ec2e2",
+            "before": "ede4bf9f387c181d5124454709ca8dfda76ba2ac",
+            "after": "aa6863e8f4d3b238d0ffed7ba37847256b5c0c72",
             "created": false,
             "deleted": false,
             "size": 1,
             "commits": [
                 {
-                    "sha": "468a7da655b76473773f9128bd61d13f3b6ec2e2",
+                    "sha": "aa6863e8f4d3b238d0ffed7ba37847256b5c0c72",
                     "author": {
                         "email": "15627376+weeks-work@user.noreply.gitee.com",
                         "name": "周为"
                     },
-                    "message": "TEXT\n",
-                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/468a7da655b76473773f9128bd61d13f3b6ec2e2"
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/aa6863e8f4d3b238d0ffed7ba37847256b5c0c72"
                 }
             ]
         }
     },
     {
-        "id": 956130834,
+        "id": 959543386,
         "type": "PushEvent",
         "actor": {
             "id": 15627376,
@@ -118,31 +306,31 @@
                 "html_url": "https://gitee.com/weeks-work"
             }
         },
-        "public": false,
-        "created_at": "2025-03-31T12:16:40+08:00",
+        "public": true,
+        "created_at": "2025-04-07T21:59:46+08:00",
         "payload": {
             "ref": "refs/heads/master",
-            "before": "8480d69b28dc9be24ec6ae0a42e982c97db5d03f",
-            "after": "a3cc037c0ad41eebad3f44d116eaeaf6397a27a7",
+            "before": "b4dfac9f0a7764120f3fe8b599ce3c75e27e903b",
+            "after": "ede4bf9f387c181d5124454709ca8dfda76ba2ac",
             "created": false,
             "deleted": false,
             "size": 1,
             "commits": [
                 {
-                    "sha": "a3cc037c0ad41eebad3f44d116eaeaf6397a27a7",
+                    "sha": "ede4bf9f387c181d5124454709ca8dfda76ba2ac",
                     "author": {
                         "email": "15627376+weeks-work@user.noreply.gitee.com",
                         "name": "周为"
                     },
-                    "message": "初始化\n",
-                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/a3cc037c0ad41eebad3f44d116eaeaf6397a27a7"
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/ede4bf9f387c181d5124454709ca8dfda76ba2ac"
                 }
             ]
         }
     },
     {
-        "id": 956116228,
-        "type": "CreateEvent",
+        "id": 959088110,
+        "type": "PushEvent",
         "actor": {
             "id": 15627376,
             "login": "weeks-work",
@@ -165,18 +353,31 @@
                 "html_url": "https://gitee.com/weeks-work"
             }
         },
-        "public": false,
-        "created_at": "2025-03-31T11:47:35+08:00",
+        "public": true,
+        "created_at": "2025-04-07T10:51:58+08:00",
         "payload": {
-            "ref_type": "branch",
-            "ref": "master",
-            "default_branch": "master",
-            "description": "python基础pycharm"
+            "ref": "refs/heads/master",
+            "before": "953f38ccfc3d3893900333cb15d4557ed65b74a8",
+            "after": "b4dfac9f0a7764120f3fe8b599ce3c75e27e903b",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "b4dfac9f0a7764120f3fe8b599ce3c75e27e903b",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "tieba\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/b4dfac9f0a7764120f3fe8b599ce3c75e27e903b"
+                }
+            ]
         }
     },
     {
-        "id": 953162820,
-        "type": "CreateEvent",
+        "id": 959086906,
+        "type": "PushEvent",
         "actor": {
             "id": 15627376,
             "login": "weeks-work",
@@ -199,13 +400,600 @@
                 "html_url": "https://gitee.com/weeks-work"
             }
         },
-        "public": false,
-        "created_at": "2025-03-25T16:47:36+08:00",
+        "public": true,
+        "created_at": "2025-04-07T10:50:37+08:00",
         "payload": {
-            "ref_type": "repository",
-            "ref": null,
-            "default_branch": "master",
-            "description": "python基础pycharm"
+            "ref": "refs/heads/master",
+            "before": "c8673e2d6771c1b2f4c2bd7bdac18ee7f9a279da",
+            "after": "953f38ccfc3d3893900333cb15d4557ed65b74a8",
+            "created": false,
+            "deleted": false,
+            "compare": "https://gitee.com/weeks-work/pycharm/compare/c8673e2d6771c1b2f4c2bd7bdac18ee7f9a279da...953f38ccfc3d3893900333cb15d4557ed65b74a8",
+            "size": 4,
+            "commits": [
+                {
+                    "sha": "4da0513c7beeb45d9246d47c13829a89b49e8098",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "1\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/4da0513c7beeb45d9246d47c13829a89b49e8098"
+                },
+                {
+                    "sha": "0578635164e30937710c3aca9e2b9830e3379e4c",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "1\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/0578635164e30937710c3aca9e2b9830e3379e4c"
+                },
+                {
+                    "sha": "ad8c287a027a21a80703f8f74d53a2ff6cc574b4",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "1\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/ad8c287a027a21a80703f8f74d53a2ff6cc574b4"
+                },
+                {
+                    "sha": "953f38ccfc3d3893900333cb15d4557ed65b74a8",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "1\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/953f38ccfc3d3893900333cb15d4557ed65b74a8"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958052848,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T13:27:29+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "883e9b9d496492a2ba2222d82d91e150298d0267",
+            "after": "c8673e2d6771c1b2f4c2bd7bdac18ee7f9a279da",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "c8673e2d6771c1b2f4c2bd7bdac18ee7f9a279da",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "练习\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/c8673e2d6771c1b2f4c2bd7bdac18ee7f9a279da"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958048914,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T13:16:52+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "4513be2f45a1de4ca02961097af56698f21dea12",
+            "after": "883e9b9d496492a2ba2222d82d91e150298d0267",
+            "created": false,
+            "deleted": false,
+            "compare": "https://gitee.com/weeks-work/pycharm/compare/4513be2f45a1de4ca02961097af56698f21dea12...883e9b9d496492a2ba2222d82d91e150298d0267",
+            "size": 2,
+            "commits": [
+                {
+                    "sha": "13054b39978dae3a39923f5f4a7eee859e05682a",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "练习\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/13054b39978dae3a39923f5f4a7eee859e05682a"
+                },
+                {
+                    "sha": "883e9b9d496492a2ba2222d82d91e150298d0267",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "Merge branch 'master' of https://gitee.com/weeks-work/pycharm\n\n# Conflicts:\n#\t练习/pachong1/pachong1.py\n#\t练习/pachong1/pachong2.py\n#\t练习/pachong1/pachong4.py\n#\t练习/pachong1/zuoye1.py\n#\t练习/pachong1/zuoye2.py\n#\t练习/pachong1/生成器\n#\t练习/pachong1/生成器.py\n#\t练习/pachong2/session.py\n#\t练习/pachong2/极简壁纸.py\n#\t练习/pachong2/正则表达式.py\n#\t练习/pachong2/高清壁纸.py\n#\t练习/pachong3/pachong3.py\n#\t练习/pachong3/赛马娘wiki.py\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/883e9b9d496492a2ba2222d82d91e150298d0267"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958042570,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T12:54:50+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "53fca412bf54e3f4b870d88ae2182bdf2f6a3cd0",
+            "after": "4513be2f45a1de4ca02961097af56698f21dea12",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "4513be2f45a1de4ca02961097af56698f21dea12",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "删除文件 作业",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/4513be2f45a1de4ca02961097af56698f21dea12"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958042556,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T12:54:43+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "bb66e58f5a4d9463b73edf4081a4a41c66002586",
+            "after": "53fca412bf54e3f4b870d88ae2182bdf2f6a3cd0",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "53fca412bf54e3f4b870d88ae2182bdf2f6a3cd0",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "删除文件 pachong3",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/53fca412bf54e3f4b870d88ae2182bdf2f6a3cd0"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958042530,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T12:54:36+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "dea80a25e5add78c152791a373e688300ee3a880",
+            "after": "bb66e58f5a4d9463b73edf4081a4a41c66002586",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "bb66e58f5a4d9463b73edf4081a4a41c66002586",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "删除文件 pachong2",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/bb66e58f5a4d9463b73edf4081a4a41c66002586"
+                }
+            ]
+        }
+    },
+    {
+        "id": 958042496,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-03T12:54:29+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "0aaf0cbc46c5e80d40eddb3618558ed56193ef9e",
+            "after": "dea80a25e5add78c152791a373e688300ee3a880",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "dea80a25e5add78c152791a373e688300ee3a880",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "删除文件 pachong1",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/dea80a25e5add78c152791a373e688300ee3a880"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957809261,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-02T21:55:40+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "8bed03db5edf91b3c46bdd679c8755d95ba33d6c",
+            "after": "0aaf0cbc46c5e80d40eddb3618558ed56193ef9e",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "0aaf0cbc46c5e80d40eddb3618558ed56193ef9e",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "作业\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/0aaf0cbc46c5e80d40eddb3618558ed56193ef9e"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957807796,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-02T21:51:57+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "73ba81ed9e3c6f53f1fb22df2746291fd6552294",
+            "after": "8bed03db5edf91b3c46bdd679c8755d95ba33d6c",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "8bed03db5edf91b3c46bdd679c8755d95ba33d6c",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "练习\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/8bed03db5edf91b3c46bdd679c8755d95ba33d6c"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957285315,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-02T09:39:54+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "a84ac97a5f34e3eb6d503f4a811115485a5cfafc",
+            "after": "73ba81ed9e3c6f53f1fb22df2746291fd6552294",
+            "created": false,
+            "deleted": false,
+            "compare": "https://gitee.com/weeks-work/pycharm/compare/a84ac97a5f34e3eb6d503f4a811115485a5cfafc...73ba81ed9e3c6f53f1fb22df2746291fd6552294",
+            "size": 3,
+            "commits": [
+                {
+                    "sha": "a92209dc3d601bd249823ab623b2d098972c75b5",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "练习\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/a92209dc3d601bd249823ab623b2d098972c75b5"
+                },
+                {
+                    "sha": "8fd4f476f1796a79b199cf63888e8a34ed744f7d",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tpachong3/pachong3.py\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/8fd4f476f1796a79b199cf63888e8a34ed744f7d"
+                },
+                {
+                    "sha": "73ba81ed9e3c6f53f1fb22df2746291fd6552294",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "练习\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/73ba81ed9e3c6f53f1fb22df2746291fd6552294"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957281274,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-02T09:35:09+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "90b2f4b58525c257f5ea204138d84ef86b381375",
+            "after": "a84ac97a5f34e3eb6d503f4a811115485a5cfafc",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "a84ac97a5f34e3eb6d503f4a811115485a5cfafc",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "删除文件 pachong3.py",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/a84ac97a5f34e3eb6d503f4a811115485a5cfafc"
+                }
+            ]
+        }
+    },
+    {
+        "id": 957279648,
+        "type": "PushEvent",
+        "actor": {
+            "id": 15627376,
+            "login": "weeks-work",
+            "name": "周为",
+            "avatar_url": "https://gitee.com/assets/no_portrait.png",
+            "url": "https://gitee.com/api/v5/users/weeks-work",
+            "html_url": "https://gitee.com/weeks-work",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40252603,
+            "full_name": "weeks-work/pycharm",
+            "human_name": "周为/pycharm",
+            "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm",
+            "namespace": {
+                "id": 14853140,
+                "type": "personal",
+                "name": "周为",
+                "path": "weeks-work",
+                "html_url": "https://gitee.com/weeks-work"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-02T09:33:16+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "4e31e527de002ed343aa7932a60174d6158e7d50",
+            "after": "90b2f4b58525c257f5ea204138d84ef86b381375",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "90b2f4b58525c257f5ea204138d84ef86b381375",
+                    "author": {
+                        "email": "15627376+weeks-work@user.noreply.gitee.com",
+                        "name": "周为"
+                    },
+                    "message": "练习\n",
+                    "url": "https://gitee.com/api/v5/repos/weeks-work/pycharm/commits/90b2f4b58525c257f5ea204138d84ef86b381375"
+                }
+            ]
         }
     }
 ]
