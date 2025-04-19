@@ -1,5 +1,52 @@
 [
     {
+        "id": 964775879,
+        "type": "PushEvent",
+        "actor": {
+            "id": 13262192,
+            "login": "zhzh1014",
+            "name": "90岁在线写JAVA",
+            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
+            "url": "https://gitee.com/api/v5/users/zhzh1014",
+            "html_url": "https://gitee.com/zhzh1014",
+            "remark": ""
+        },
+        "repo": {
+            "id": 40344061,
+            "full_name": "zhzh1014/study_py",
+            "human_name": "90岁在线写JAVA/study_py",
+            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
+            "namespace": {
+                "id": 12291462,
+                "type": "personal",
+                "name": "90岁在线写JAVA",
+                "path": "zhzh1014",
+                "html_url": "https://gitee.com/zhzh1014"
+            }
+        },
+        "public": true,
+        "created_at": "2025-04-17T10:23:41+08:00",
+        "payload": {
+            "ref": "refs/heads/master",
+            "before": "7cd9a815b40a158781bc0a4572d830049b0dae2f",
+            "after": "ca38b9689baadd9d13681b5cde0918d9c780dd4a",
+            "created": false,
+            "deleted": false,
+            "size": 1,
+            "commits": [
+                {
+                    "sha": "ca38b9689baadd9d13681b5cde0918d9c780dd4a",
+                    "author": {
+                        "email": "2419078492@qq.com",
+                        "name": "zhou"
+                    },
+                    "message": "refactor(mySpider): 移除邮箱配置的默认值\n",
+                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/ca38b9689baadd9d13681b5cde0918d9c780dd4a"
+                }
+            ]
+        }
+    },
+    {
         "id": 964574461,
         "type": "PushEvent",
         "actor": {
@@ -898,53 +945,6 @@
                     },
                     "message": "refactor(b.requests): 重命名文件并添加新功能\n\n- 添加 c.重定向.py 文件，实现重定向请求功能\n- 添加 d.高清壁纸.py 文件，实现高清壁纸下载功能\n- 更新 README.md，添加状态码说明\n- 添加 页面爬取.py 文件，实现页面内容爬取功能\n",
                     "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/49447847b23f161d338219dc911316539ce4b77a"
-                }
-            ]
-        }
-    },
-    {
-        "id": 956652950,
-        "type": "PushEvent",
-        "actor": {
-            "id": 13262192,
-            "login": "zhzh1014",
-            "name": "90岁在线写JAVA",
-            "avatar_url": "https://foruda.gitee.com/avatar/1721768469476791577/13262192_zhzh1014_1721768469.png",
-            "url": "https://gitee.com/api/v5/users/zhzh1014",
-            "html_url": "https://gitee.com/zhzh1014",
-            "remark": ""
-        },
-        "repo": {
-            "id": 40344061,
-            "full_name": "zhzh1014/study_py",
-            "human_name": "90岁在线写JAVA/study_py",
-            "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py",
-            "namespace": {
-                "id": 12291462,
-                "type": "personal",
-                "name": "90岁在线写JAVA",
-                "path": "zhzh1014",
-                "html_url": "https://gitee.com/zhzh1014"
-            }
-        },
-        "public": true,
-        "created_at": "2025-04-01T09:55:55+08:00",
-        "payload": {
-            "ref": "refs/heads/master",
-            "before": "bbfe98ad4b5864794f03313834d468edc88396d7",
-            "after": "706057b7cc36f15a64afc0a62102a15296b60599",
-            "created": false,
-            "deleted": false,
-            "size": 1,
-            "commits": [
-                {
-                    "sha": "706057b7cc36f15a64afc0a62102a15296b60599",
-                    "author": {
-                        "email": "2419078492@qq.com",
-                        "name": "zhou"
-                    },
-                    "message": "docs(知识点讲解): 添加生成器相关知识\n\n- 新增 4_1生成器.md 文件，讲解生成器的概念、写法和异常处理\n- 新增 4_1生成器.py 文件，演示生成器的使用示例\n",
-                    "url": "https://gitee.com/api/v5/repos/zhzh1014/study_py/commits/706057b7cc36f15a64afc0a62102a15296b60599"
                 }
             ]
         }
