@@ -1,0 +1,24 @@
+{
+  "name": "pythonproject",
+  "version": "1.0.0",
+  "description": "-- 理解请求头，请求参数，请求结果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Big-Jls/PythonProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Big-Jls/PythonProject/issues"
+  },
+  "homepage": "https://github.com/Big-Jls/PythonProject#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "type": "module"
+}
